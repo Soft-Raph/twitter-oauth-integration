@@ -1,4 +1,4 @@
-# Test task for PHP developer (Laravel + REST API)
+# Twiter Oauth integration for PHP developer (Laravel + REST API)
 
 ## Installation
 
@@ -13,8 +13,6 @@ git clone git@github.com:Soft-Raph/twitter-task-test.git
 
 ### run php artisan migrate
 
-
-#### I have to write the oauth my self using the oauth version 2 
 
 #### Start by adding your 'CLIENT_ID' and 'CLIENT_SECRET' to your .env file.
 
